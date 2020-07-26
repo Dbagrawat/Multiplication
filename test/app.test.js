@@ -5,7 +5,4 @@ describe("app", function () {
   it("does nothing", function () {
     expect(true).toBe(true);
   });
-  it("data loaded successfully", () => {
-    expect(data).toMatchSnapshot();
-  });
 });
