@@ -52,3 +52,4 @@ http://localhost:8080/
 2. Unit testing for multiple numbers.
  
 #sass-loader would have been better to follow the BEM approach for the styling.
+#I have not used any css lib for the, its plain css for the responsive desing. Would have been good to use any css library to support the older browser.
